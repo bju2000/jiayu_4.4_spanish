@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>REPETIR DIARIAMENTE</item>
+        <item>REPETIR SEMANALMENTE</item>
+        <item>REPETIR MENSUALMENTE</item>
+        <item>REPETIR ANUALMENTE</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>el primer domingo de cada mes</item>
+        <item>el segundo domingo de cada mes</item>
+        <item>el tercer domingo de cada mes</item>
+        <item>el cuarto domingo de cada mes</item>
+        <item>el último domingo de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>el primer lunes de cada mes</item>
+        <item>el segundo lunes de cada mes</item>
+        <item>el tercer lunes de cada mes</item>
+        <item>el cuarto lunes de cada mes</item>
+        <item>el último lunes de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>el primer martes de cada mes</item>
+        <item>el segundo martes de cada mes</item>
+        <item>el tercer martes de cada mes</item>
+        <item>el cuarto martes de cada mes</item>
+        <item>el último martes de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>el primer miér. de cada mes</item>
+        <item>el segundo miér. de cada mes</item>
+        <item>el tercer miér. de cada mes</item>
+        <item>el cuarto miér. de cada mes</item>
+        <item>el último miér. de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>el primer jueves de cada mes</item>
+        <item>el segundo jueves de cada mes</item>
+        <item>el tercer jueves de cada mes</item>
+        <item>el cuarto jueves de cada mes</item>
+        <item>el último jueves de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>el primer viernes de cada mes</item>
+        <item>el segundo viernes de cada mes</item>
+        <item>el tercer viernes de cada mes</item>
+        <item>el cuarto viernes de cada mes</item>
+        <item>el último viernes de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>el primer sábado de cada mes</item>
+        <item>el segundo sábado de cada mes</item>
+        <item>el tercer sábado de cada mes</item>
+        <item>el cuarto sábado de cada mes</item>
+        <item>el último sábado de cada mes</item>
+    </string-array>
+    <string-array name="action_local_directions_travel_mode">
+        <item>En automóvil</item>
+        <item>A pie</item>
+        <item>En transporte público</item>
+        <item>En bicicleta</item>
+    </string-array>
+    <string-array name="action_local_navigate_travel_mode">
+        <item>En automóvil</item>
+        <item>A pie</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>leer</item>
+        <item>leer el mensaje</item>
+        <item>leer ese mensaje</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>responder</item>
+        <item>enviar respuesta</item>
+        <item>enviar una respuesta</item>
+        <item>responder el mensaje de texto</item>
+        <item>enviar respuesta al mensaje</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>devolver la llamada al remitente del último mensaje</item>
+        <item>llamarlo</item>
+        <item>devolverle la llamada</item>
+        <item>llamarla</item>
+        <item>devolverle la llamada</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>Primera entrada</item>
+        <item>Segunda entrada</item>
+        <item>Tercera entrada</item>
+        <item>Cuarta entrada</item>
+        <item>Quinta entrada</item>
+        <item>Sexta entrada</item>
+        <item>Séptima entrada</item>
+        <item>Octava entrada</item>
+        <item>Novena entrada</item>
+        <item>Décima entrada</item>
+        <item>Decimoprimera entrada</item>
+        <item>Decimosegunda entrada</item>
+    </string-array>
+    <string-array name="location_history_reminder_title_with_month">
+        <item>%1$s en enero</item>
+        <item>%1$s en febrero</item>
+        <item>%1$s en marzo</item>
+        <item>%1$s en abril</item>
+        <item>%1$s en mayo</item>
+        <item>%1$s en junio</item>
+        <item>%1$s en julio</item>
+        <item>%1$s en agosto</item>
+        <item>%1$s en septiembre</item>
+        <item>%1$s en octubre</item>
+        <item>%1$s en noviembre</item>
+        <item>%1$s en diciembre</item>
+    </string-array>
+    <string-array name="location_history_reminder_title_duration_with_month">
+        <item>%1$s en enero</item>
+        <item>%1$s en febrero</item>
+        <item>%1$s en marzo</item>
+        <item>%1$s en abril</item>
+        <item>%1$s en mayo</item>
+        <item>%1$s en junio</item>
+        <item>%1$s en julio</item>
+        <item>%1$s en agosto</item>
+        <item>%1$s en septiembre</item>
+        <item>%1$s en octubre</item>
+        <item>%1$s en noviembre</item>
+        <item>%1$s en diciembre</item>
+    </string-array>
+    <string-array name="location_history_reminder_months">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+    <string-array name="location_history_reminder_diff">
+        <item>%1$s %2$s que en enero</item>
+        <item>%1$s %2$s que en febrero</item>
+        <item>%1$s %2$s que en marzo</item>
+        <item>%1$s %2$s que en abril</item>
+        <item>%1$s %2$s que en mayo</item>
+        <item>%1$s %2$s que en junio</item>
+        <item>%1$s %2$s que en julio</item>
+        <item>%1$s %2$s que en agosto</item>
+        <item>%1$s %2$s que en septiembre</item>
+        <item>%1$s %2$s que en octubre</item>
+        <item>%1$s %2$s que en noviembre</item>
+        <item>%1$s %2$s que en diciembre</item>
+    </string-array>
+    <string-array name="location_history_reminder_duration_diff">
+        <item>%1$s %2$s que en enero</item>
+        <item>%1$s %2$s que en febrero</item>
+        <item>%1$s %2$s que en marzo</item>
+        <item>%1$s %2$s que en abril</item>
+        <item>%1$s %2$s que en mayo</item>
+        <item>%1$s %2$s que en junio</item>
+        <item>%1$s %2$s que en julio</item>
+        <item>%1$s %2$s que en agosto</item>
+        <item>%1$s %2$s que en septiembre</item>
+        <item>%1$s %2$s que en octubre</item>
+        <item>%1$s %2$s que en noviembre</item>
+        <item>%1$s %2$s que en diciembre</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>D</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>E</item>
+        <item>U</item>
+        <item>V</item>
+        <item>V</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikáans (Sudáfrica)</item>
+        <item>Árabe (Argelia)</item>
+        <item>Árabe (Egipto)</item>
+        <item>Árabe (Iraq)</item>
+        <item>Árabe (Israel)</item>
+        <item>Árabe (Jordania)</item>
+        <item>Árabe (Kuwait)</item>
+        <item>Árabe (Líbano)</item>
+        <item>Árabe (Libia)</item>
+        <item>Árabe (Marruecos)</item>
+        <item>Árabe (Qatar)</item>
+        <item>Árabe (Arabia Saudita)</item>
+        <item>Árabe (Sudán)</item>
+        <item>Árabe (Siria)</item>
+        <item>Árabe (Túnez)</item>
+        <item>Árabe (Emiratos Árabes Unidos)</item>
+        <item>Árabe (Yemen)</item>
+        <item>Bielorruso (Bielorrusia)</item>
+        <item>Bengalí (Bangladesh)</item>
+        <item>Búlgaro (Bulgaria)</item>
+        <item>Catalán (España)</item>
+        <item>Chino, mandarín (China, simplificado)</item>
+        <item>Chino, mandarín (Hong Kong, simplificado)</item>
+        <item>Chino, mandarín (Hong Kong, tradicional)</item>
+        <item>Chino, mandarín (Singapur, simplificado)</item>
+        <item>Chino, mandarín (Taiwán, simplificado)</item>
+        <item>Chino, mandarín (Taiwán, tradicional)</item>
+        <item>Chino, Yue (China, simplificado)</item>
+        <item>Chino, Yue (Hong Kong, tradicional)</item>
+        <item>Croata (Croacia)</item>
+        <item>Checo (República Checa)</item>
+        <item>Danés (Dinamarca)</item>
+        <item>Holandés (Bélgica)</item>
+        <item>Holandés (Países Bajos)</item>
+        <item>Inglés (genérico)</item>
+        <item>Inglés (Australia)</item>
+        <item>Inglés (Bangladesh)</item>
+        <item>Inglés (Canadá)</item>
+        <item>Inglés (Hong Kong)</item>
+        <item>Inglés (India)</item>
+        <item>Inglés (Irlanda)</item>
+        <item>Inglés (Kenia)</item>
+        <item>Inglés (Malasia)</item>
+        <item>Inglés (Nueva Zelanda)</item>
+        <item>Inglés (Nigeria)</item>
+        <item>Inglés (Pakistán)</item>
+        <item>Inglés (Filipinas)</item>
+        <item>Inglés (Singapur)</item>
+        <item>Inglés (Sudáfrica)</item>
+        <item>Inglés (Sudán)</item>
+        <item>Inglés (Tanzania)</item>
+        <item>Inglés (Uganda)</item>
+        <item>Inglés (Reino Unido)</item>
+        <item>Inglés (EE.UU.)</item>
+        <item>Estonio (Estonia)</item>
+        <item>Filipino (Filipinas)</item>
+        <item>Finlandés (Finlandia)</item>
+        <item>Francés (Bélgica)</item>
+        <item>Francés (Canadá)</item>
+        <item>Francés (Francia)</item>
+        <item>Francés (Suiza)</item>
+        <item>Gallego (España)</item>
+        <item>Alemán (Austria)</item>
+        <item>Alemán (Alemania)</item>
+        <item>Alemán (Suiza)</item>
+        <item>Alemán (Liechtenstein)</item>
+        <item>Griego (Grecia)</item>
+        <item>Hebreo (Israel)</item>
+        <item>Hindi (India)</item>
+        <item>Húngaro (Hungría)</item>
+        <item>Islandés (Islandia)</item>
+        <item>Indonesio (Indonesia)</item>
+        <item>Irlandés (Irlanda)</item>
+        <item>Ndebele (Sudáfrica)</item>
+        <item>Xhosa (Sudáfrica)</item>
+        <item>Zulú (Sudáfrica)</item>
+        <item>Italiano (Italia)</item>
+        <item>Italiano (Suiza)</item>
+        <item>Japonés (Japón)</item>
+        <item>Coreano (Corea del Sur)</item>
+        <item>Letón (Letonia)</item>
+        <item>Lituano (Lituania)</item>
+        <item>Malayo (Malasia)</item>
+        <item>Malayo (Singapur)</item>
+        <item>Noruego Bokmål (Noruega)</item>
+        <item>Noruego Nynorsk (Noruega)</item>
+        <item>Persa (Irán)</item>
+        <item>Polaco (Polonia)</item>
+        <item>Portugués (Angola)</item>
+        <item>Portugués (Brasil)</item>
+        <item>Portugués (Portugal)</item>
+        <item>Rumano (Rumania)</item>
+        <item>Ruso (Bielorrusia)</item>
+        <item>Ruso (Rusia)</item>
+        <item>Sepedi (Sudáfrica)</item>
+        <item>Serbio (Serbia, cirílico)</item>
+        <item>Sesotho (Sudáfrica)</item>
+        <item>Setswana (Sudáfrica)</item>
+        <item>Suazi (Sudáfrica)</item>
+        <item>Eslovaco (Eslovaquia)</item>
+        <item>Esloveno (Eslovenia)</item>
+        <item>Español (Argentina)</item>
+        <item>Español (Bolivia)</item>
+        <item>Español (Chile)</item>
+        <item>Español (Colombia)</item>
+        <item>Español (Costa Rica)</item>
+        <item>Español (Cuba)</item>
+        <item>Español (República Dominicana)</item>
+        <item>Español (Ecuador)</item>
+        <item>Español (El Salvador)</item>
+        <item>Español (Guatemala)</item>
+        <item>Español (Honduras)</item>
+        <item>Español (México)</item>
+        <item>Español (Nicaragua)</item>
+        <item>Español (Panamá)</item>
+        <item>Español (Paraguay)</item>
+        <item>Español (Perú)</item>
+        <item>Español (Puerto Rico)</item>
+        <item>Español (España)</item>
+        <item>Español (EE.UU.)</item>
+        <item>Español (Uruguay)</item>
+        <item>Español (Venezuela)</item>
+        <item>Suajili (Kenia)</item>
+        <item>Suajili (Tanzania)</item>
+        <item>Suajili (Uganda)</item>
+        <item>Sueco (Finlandia)</item>
+        <item>Sueco (Suecia)</item>
+        <item>Tailandés (Tailandia)</item>
+        <item>Tshivenda (Sudáfrica)</item>
+        <item>Turco (Turquía)</item>
+        <item>Ucraniano (Ucrania)</item>
+        <item>Urdu (Pakistán)</item>
+        <item>Vietnamita (Vietnam)</item>
+        <item>Xitsonga (Sudáfrica)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Hoy</item>
+        <item>Mañana</item>
+        <item>Ocasionalmente</item>
+        <item>Establecer fecha</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Mañana</item>
+        <item>Tarde</item>
+        <item>Tarde-noche</item>
+        <item>Noche</item>
+        <item>Todo el día</item>
+        <item>Establecer hora</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Llegar</item>
+        <item>Partir</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Establecer ubicación</item>
+    </string-array>
+</resources>

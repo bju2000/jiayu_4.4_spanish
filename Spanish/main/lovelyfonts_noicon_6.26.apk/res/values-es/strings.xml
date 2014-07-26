@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Administrador de Fuentes</string>
+    <string name="permlab_downloadManager">Acceso al administrador de descargas</string>
+    <string name="permdesc_downloadManager">Permite que la aplicación acceda al administrador de descargas y lo utilice para descargar archivos. Las aplicaciones malintencionadas pueden utilizar este permiso para provocar daños en las descargas y acceder a información privada.</string>
+    <string name="permlab_downloadManagerAdvanced">Funciones avanzadas del administrador de descargas</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite que la aplicación acceda a las funciones avanzadas del administrador de descargas. Las aplicaciones malintencionadas pueden utilizar este permiso para provocar daños en las descargas y acceder a información privada.</string>
+    <string name="permlab_downloadCompletedIntent">Envío de notificaciones de descarga</string>
+    <string name="permdesc_downloadCompletedIntent">Permite que la aplicación envíe notificaciones sobre descargas completadas. Las aplicaciones malintencionadas pueden utilizar este permiso para confundir a otras aplicaciones que descarguen archivos.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espacio en caché de descargas</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que la aplicación descargue archivos en la memoria caché que no se pueden eliminar automáticamente si falta espacio en el administrador de descargas.</string>
+    <string name="permlab_accessAllDownloads">Acceso a todas las descargas del sistema</string>
+    <string name="permdesc_accessAllDownloads">Permite que la aplicación vea y modifique todas las descargas iniciadas por cualquier aplicación del sistema.</string>
+    <string name="download_unknown_title">&lt;Sin título></string>
+    <string name="notification_filename_extras">" y %d más"</string>
+    <string name="notification_download_complete">Descarga completada</string>
+    <string name="notification_download_failed">Descarga incorrecta</string>
+    <string name="notification_need_wifi_for_size">La descarga requiere Wi-Fi</string>
+    <string name="wifi_required_title">Descarga demasiado grande para red de operador</string>
+    <string name="wifi_required_body" formatted="false">"Debes usar una conexión Wi-Fi para completar esta descarga de %s . 
+
+Toca %s  para iniciar la descarga la próxima vez que te conectes a una red Wi-Fi."</string>
+    <string name="wifi_recommended_title">¿Poner en cola para descargar más tarde?</string>
+    <string name="wifi_recommended_body" formatted="false">"Si descargas %s , puedes quedarte sin batería y tu operador te puede cobrar por un uso excesivo de datos.
+
+ Toca %s para iniciar la descarga la próxima vez que te conectes a una red Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Poner en cola</string>
+    <string name="button_cancel_download">Cancelar</string>
+    <string name="button_start_now">Empezar ahora</string>
+    <string name="use">Usar</string>
+    <string name="useing">Usando</string>
+    <string name="download">Descargar</string>
+    <string name="local">Local</string>
+    <string name="online">En línea</string>
+    <string name="file_isnot_exsits">El archivo de fuentes está corrupto.</string>
+    <string name="no_storage">Necesita insertar una tarjeta SD.</string>
+    <string name="preparing_sd">PPreparando la tarjeta SD</string>
+    <string name="delete_title">Atención</string>
+    <string name="delete_massage">¿Confirma eliminación?</string>
+    <string name="use_font_title">Mensaje</string>
+    <string name="use_font_massage">¿Usar la fuente?</string>
+    <string name="list_item_text_reset">Fuente por def.</string>
+    <string name="not_exist">El archivo no existe</string>
+    <string name="pay_no_support">Su teléfono no cuenta con esta característica</string>
+    <string name="pay_ok">Pago exitoso</string>
+    <string name="pay_error">Error en el pago…</string>
+    <string name="default_font">Fuente por def.</string>
+    <string name="update_dialog_title">Actualizar</string>
+    <string name="update_dialog_massage">Si actualizar la aplicación</string>
+    <string name="free">Gratis</string>
+    <string name="loading">Cargando, por favor espere…</string>
+    <string name="list_view_use">Usar</string>
+    <string name="details">Detalles</string>
+    <string name="font_version">Versión：</string>
+    <string name="font_size">Tamaño:</string>
+    <string name="wait">Cargando, por favor espere…</string>
+    <string name="expectations_more">Lo siento, más fuentes vienen en línea, por favor intente más tarde.</string>
+    <string name="check_network">Verifique la conexión de la red</string>
+    <string name="buy">comprar</string>
+    <string name="sdcard_is_mounted">sdcard está lleno o se ha eliminado, por favor intente de nuevo más tarde</string>
+    <string name="data_is_full">El sistema es completo, por favor claro</string>
+    <string name="font_text">Las palabras son los fósiles de la comunicación, mientras que el lenguaje es el puente de la comunicación. Me encanta la lengua española.</string>
+    <string name="app_label">Administrador de descargas</string>
+    <string name="permlab_seeAllExternal">Ver todas las descargas en tarjeta SD</string>
+    <string name="permdesc_seeAllExternal">Permite que la aplicación vea todas las descargas en la tarjeta SD, independientemente de la aplicación que las haya descargado.</string>
+    <string name="permlab_downloadWithoutNotification">descargar archivos sin notificación</string>
+    <string name="permdesc_downloadWithoutNotification">Permite que la aplicación descargue archivos a través del administrador de descargas sin informar al usuario.</string>
+    <string name="notification_paused_in_background">Pausada en segundo plano</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Tiempo restante: %s</string>
+    <string name="download_no_application_title">Error al abrir el archivo</string>
+    <string name="watch_author">Disfrute la fuente, disfrute.</string>
+</resources>

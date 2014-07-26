@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control de permisos</string>
+    <string name="accept_perm">Permitir</string>
+    <string name="deny_perm">Denegar</string>
+    <string name="notify_check_hint">No preguntar de nuevo.</string>
+    <string name="notify_dialog_title">Aviso seguridad</string>
+    <string name="notify_dialog_msg_body" formatted="false">%s está intentanado %s.</string>
+    <string name="time_count_down_hint">(Denegar tras %s segundos.)</string>
+    <string name="notification_control_state_title">Gestión Permisos</string>
+    <string name="notification_control_state_summary">Gestión de permisos está desactivada.</string>
+    <string name="toast_deny_msg_body" formatted="false">%s denagado a %s.</string>
+    <string name="manage_permission_app_label">Gestión Permisos</string>
+    <string name="manage_permission_summary">Gestina los permisos de aplicaciones por seguridad y privacidad</string>
+    <string name="permissions_label">Permisos</string>
+    <string name="apps">Apps</string>
+    <string name="no_applications">No hay apps.</string>
+    <string name="version_text">version %1$s</string>
+    <string name="app_count_unit_single">app</string>
+    <string name="app_count_unit_plural">apps</string>
+    <string name="perm_count_unit_single">permiso</string>
+    <string name="perm_count_unit_plural">permisos</string>
+    <string name="no_app_use_perm">No hay apps que necesiten este permiso.</string>
+    <string name="no_perm_is_used">No hay este permiso usado por alguna app.</string>
+    <string name="notify_user_switch_on">Activa el interruptor para gestionar permisos.</string>
+    <string name="alert_dlg_title">¿Quitra protección?</string>
+    <string name="alert_dlg_mgs">Se permitirá a todas las aplicaciones sin confirmación.</string>
+    <string name="foreground_notification_title">Gestión de permisos está arrancado</string>
+    <string name="foreground_notification_summary">Pulsa para ver los ajustes avanzados.</string>
+    <string name="auto_boot_pref_title">Gestión auto-inicio</string>
+    <string name="auto_boot_pref_summary">Permite o deniega el inicio de apps</string>
+    <string name="no_auto_boot_app">No hay apps.</string>
+</resources>

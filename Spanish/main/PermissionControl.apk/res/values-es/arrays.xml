@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permission_label">
+        <item>Hacer llamadas</item>
+        <item>Iniciar llamadas múltiples</item>
+        <item>Enviar SMS</item>
+        <item>Enviar MMS</item>
+        <item>Iniciar grabación de audio</item>
+        <item>Leer SMS</item>
+        <item>Leer MMS</item>
+        <item>Leer contactos</item>
+        <item>Leer registro llamadas</item>
+        <item>Leer posición</item>
+        <item>Usar cámara</item>
+        <item>Activar datos</item>
+        <item>Activar Wi-Fi</item>
+        <item>Activar Bluetooth</item>
+        <item>Usar HotKnot</item>
+    </string-array>
+    <string-array name="perm_status_entry">
+        <item>Permitir siempre</item>
+        <item>Preguntar siempre</item>
+        <item>Denegar siempre</item>
+    </string-array>
+    <string-array name="confirm_msg_body">
+        <item>hacer llamadas</item>
+        <item>iniciar llamadas múltiples</item>
+        <item>enviar SMS</item>
+        <item>enviar MMS</item>
+        <item>iniciar grabación de audio</item>
+        <item>leer SMS</item>
+        <item>leer MMS</item>
+        <item>leer contactos</item>
+        <item>leer registro llamadas</item>
+        <item>leer posición</item>
+        <item>usar cámara</item>
+        <item>activar datos</item>
+        <item>activar Wi-Fi</item>
+        <item>activar Bluetooth</item>
+        <item>usar HotKnot</item>
+    </string-array>
+</resources>
